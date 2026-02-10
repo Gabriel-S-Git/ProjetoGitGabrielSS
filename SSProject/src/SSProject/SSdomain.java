@@ -8,6 +8,8 @@ public class SSdomain {
 		System.out.println("Good night world!");
 		
 		System.out.println("Mais uma vez.");
+
+		System.out.println("Mais uma vez02.");
 		
 	}
 
